@@ -15,3 +15,9 @@
 - test6
 
 ## chapter03
+
+- test7
+
+- test8
+
+- test9
